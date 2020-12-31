@@ -1,5 +1,5 @@
 const express = require('express')
-const AdminBro = require('admin-bro')
+const AdminBro = require('@tirrilee/admin-bro')
 const plugin = require('../plugin')
 
 describe('plugin', function () {
